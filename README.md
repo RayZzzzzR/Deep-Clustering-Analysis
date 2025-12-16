@@ -29,5 +29,14 @@ Normalized Mutual Information
 
 SS
 
+Readings :
+
+https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec10_slides.pdf
+
+https://medium.com/data-science-for-rookies/clustering-in-machine-learning-a-technical-overview-of-unsupervised-learning-techniques-77ae76107f4c
+
+
+
+
 
 
